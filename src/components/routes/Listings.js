@@ -9,7 +9,7 @@ import { LineChart, Line, CartesianGrid, XAxis, YAxis, ResponsiveContainer } fro
 
 function Listings() {
 
-  const url = "https://backend-flink-test-scm4y.ondigitalocean.app/api"
+  const url = "https://backend-flink-test-2-yjprh.ondigitalocean.app/api"
 
   const [businessData, setBusinessData] = useState([])
 

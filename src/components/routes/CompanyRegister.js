@@ -10,7 +10,7 @@ import axios from "axios"
 function CompanyRegister() {
 
     //Mala practica obviamente, esto debe ir en un .env
-    const url = "https://backend-flink-test-9yuk5.ondigitalocean.app/api"
+    const url = "https://backend-flink-test-scm4y.ondigitalocean.app/api"
 
     const [name, setName] = useState("")
     const [description, setDescription] = useState("")
